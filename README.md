@@ -2,7 +2,7 @@
 
 Northeastern University Department of Bioengineering, Biomedical Optical Research Group
 
-niedrela@outlook.com
+niedrelab@outlook.com
 
 Mark Niedre
 
