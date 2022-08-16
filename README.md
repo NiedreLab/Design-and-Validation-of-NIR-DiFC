@@ -10,7 +10,7 @@ Joshua Pace
 
 MATLAB Files for the design and validation of NIR DiFC.
 
-Associated data available on Pennsieve data sharing platform DOI: 10.26275/h0fa-hd8z 
+Associated data available on Pennsieve data sharing platform [DOI: 10.26275/amsj-jner](https://discover.pennsieve.io/datasets/235)
 
 
 
