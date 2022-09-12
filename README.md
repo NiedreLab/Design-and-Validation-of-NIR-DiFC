@@ -1,6 +1,6 @@
 # Design-and-Validation-of-NIR-DiFC
 
-Northeastern University Department of Bioengineering, Biomedical Optical Research Group
+Northeastern University Department of Bioengineering, Biomedical Optics Research Group
 
 niedrelab@outlook.com
 
